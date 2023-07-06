@@ -2,6 +2,9 @@
 
 This project aims to practice building a model that predicts whether a patient has heart disease using machine learning and scikit-learn. The Jupyter notebook file provided below contains the trained and tuned model, the model evaluation, and a comparison of feature importance. You can access the file at: https://github.com/cchou-github/sklearn-heart-disease-project/blob/main/end-to-end-heart-disease-classification.ipynb
 
+The project is built under the tutorial of the Udemy course below:
+https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+
 # What main tools are used in this project
 - python=3.9.16
 - scikit-learn=1.2.2
